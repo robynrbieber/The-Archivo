@@ -1,2 +1,2 @@
 # The-Archivo
-Official for the brand The Archivo
+Official repo The Archivo
