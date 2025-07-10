@@ -1,1 +1,15 @@
-
+[
+  {
+    "title": "GovTrack",
+    "url": "https://www.govtrack.us/",
+    "category": "Legislative Tools",
+    "tags": ["legislation", "tracking", "civic"],
+    "description": "Track bills, votes, and congressional activity.",
+    "added": "2025-07-08",
+    "updated": "2025-07-08",
+    "status": "active",
+    "rating": 5,
+    "source_type": "website",
+    "usage": ["research", "public-sharing"]
+  }
+]
